@@ -1,2 +1,3 @@
-# living-being-license
-The Living Being License
+# The Living Being License
+
+See [License](./LICENSE.md)
