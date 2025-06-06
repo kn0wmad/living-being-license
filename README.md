@@ -1,3 +1,5 @@
 # The Living Being License
 
-See [License](./LICENSE.md)
+End the madness of the legal system, stand for Common Sense.
+
+See [LICENSE](./LICENSE.md)
