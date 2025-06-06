@@ -1,6 +1,6 @@
-The Living Being License, version 1.0
+The Living Being License, version 1.1
 
-The original computer code and resulting program(s), website(s), and/or documentation were made by license holder kn0wmad, 2025. All Rights reserved.  All Rights to make fun of you reserved.  This license is inspired by the BipCot NoGov License (BipCot.org).
+The original computer code and resulting program(s), website(s), and/or documentation were made by the Living Being known as kn0wmad, 2025. All Rights reserved.  All Rights to make fun of you reserved.  This license is inspired by the BipCot NoGov License (BipCot.org).
 
 Redistribution and use in source and binary forms, with or without modification, are permitted to any and all Living Beings, provided that the following conditions are met:
 
