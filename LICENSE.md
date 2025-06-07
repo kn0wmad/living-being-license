@@ -1,6 +1,8 @@
-The Living Being License, version 1.1
+The Living Being License, version 1.2
 
 The original computer code and resulting program(s), website(s), and/or documentation were created by the Living Being known as kn0wmad, 2025. All Rights reserved.  All Rights to make fun of you reserved.  This license is inspired by the BipCot NoGov License (BipCot.org).
+
+In a society living in harmony with Natural Law (known globally under many names, such as Karma, God's Law, The Golden Rule, Universal Law, Common Sense, etc), licensure would be largely irrelevant, or possibly even made obsolete.  Until then, we must make fun of the endless, intentionally confusing, and oppressive legal systems of mankind.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted to any and all Living Beings, provided that the following conditions are met:
 
